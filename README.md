@@ -1,5 +1,3 @@
-!> Orijinal değildir
-
 ![Logo](./docs/images/logo.svg)
 
 # Hakkında
