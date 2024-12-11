@@ -35,7 +35,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf </a>
-        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi arama motorlarından biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -187,18 +187,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/internet-tarayicilari?id=-mullvad-browser" target="_blank" style="color: inherit; text-decoration: none;">Mullvad Browser</a>
         </div>
     </div>
-    <div class="service-box">
-        <img src="docs/images/tor.svg" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/tor-agi" target="_blank" style="color: inherit; text-decoration: none;">Tor Browser</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/ug-chromium.png" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-ungoogled-chromium" target="_blank" style="color: inherit; text-decoration: none;">Ungoogled Chromium</a>
-        </div>
-    </div>
 </div>
 
 ## Posta Uygulamaları
@@ -227,6 +215,18 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-droid</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/gog.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-gogcom" target="_blank" style="color: inherit; text-decoration: none;">GOG.com</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/aurorastore.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-aurora-store" target="_blank" style="color: inherit; text-decoration: none;">Aurora Store</a>
+        </div>
+    </div>
 </div>
 
 ## Şifre Yöneticileri
@@ -250,12 +250,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
         </div>
     </div>
-    <div class="service-box">
-        <img src="docs/images/kwalletmanager.png" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-kwalletmanager" target="_blank" style="color: inherit; text-decoration: none;">Kwalletmanager</a>
-        </div>
-    </div>
 </div>
 
 ## 2 Faktörlü Doğrulama
@@ -275,6 +269,51 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+## Ofis Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/libreOfficeLogo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-libreoffice" target="_blank" style="color: inherit; text-decoration: none;">LibreOffice</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/onlyoffice.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-only-office" target="_blank" style="color: inherit; text-decoration: none;">Only Office</a>
+        </div>
+    </div>
+</div>
+
+## Sosyal Ağlar
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/mastodon-icon.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sosyal-aglar?id=-mastodon" target="_blank" style="color: inherit; text-decoration: none;">Mastodon</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/lemmy_icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sosyal-aglar?id=-lemmy" target="_blank" style="color: inherit; text-decoration: none;">Lemmy</a>
+        </div>
+    </div>
+</div>
+
+## Not Alma
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/anytype.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-anytype" target="_blank" style="color: inherit; text-decoration: none;">Anytype</a>
+        </div>
+    </div>
+</div>
+
 ## RSS İstemcileri
 
 <div class="service-container">
@@ -288,6 +327,12 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/miniflux.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/rss-istemcileri?id=-miniflux" target="_blank" style="color: inherit; text-decoration: none;">Miniflux</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/fluentreader.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-fluent-reader" target="_blank" style="color: inherit; text-decoration: none;">Fluent Reader</a>
         </div>
     </div>
 </div>
