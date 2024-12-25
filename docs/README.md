@@ -33,7 +33,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf</a>
-        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Varsayılan Firefox ayarları en güvenli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -46,7 +46,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/ublock.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" class="title">En iyi reklam ve izleyici engelleyici: uBlock Origin</a>
-        <p class="description">En güçlü ve gelişmiş reklam, izleyici engelleme eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiş ve reklam engelleme yeteneği daha iyidir.</p>
+        <p class="description">uBlock Origin, güçlü ve gelişmiş bir reklam ve izleyici engelleme eklentisidir. Diğer reklam engelleyicilere kıyasla daha üstün özellikler sunar ve reklam engelleme performansı oldukça yüksektir.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
         </div>
@@ -56,8 +56,8 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 <div class="custom-box">
     <img src="docs/images/tutamail.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail</a>
-        <p class="description">Tutanota Mail Almanya tabanlı, açık kaynaklı ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutamail" class="title">Uçtan uca şifrelemeli posta: Tuta Mail</a>
+        <p class="description">Tuta Mail açık kaynaklı, uçtan uca şifrelemeli ve güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
@@ -73,8 +73,9 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/protonvpn-icon.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN</a>
-        <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <p class="description">Proton VPN, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası ile üst düzey gizlilik ve daha güvenli bir internet deneyimi sağlar. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
@@ -100,6 +101,36 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+<div class="custom-box">
+    <img src="docs/images/session.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-session" class="title">Güvenli ve anonim mesajlaşma: Session</a>
+        <p class="description">Session, güçlü uçtan uca şifreleme ile anonimlik sunan merkeziyetsiz bir mesajlaşma uygulamasıdır. Gizliliği ön planda tutan kullanıcılar için güvenli ve modern bir çözüm.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/enteauth.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/guvenlik-uygulamalari?id=-ente-auth" class="title">Güvenli ve kullanıcı dostu kimlik doğrulama: Ente Auth</a>
+        <p class="description">Ente Auth, güçlü güvenlik özellikleri ve kullanıcı dostu tasarımıyla iki faktörlü kimlik doğrulama (2FA) sağlayan modern bir uygulamadır. Gizliliği ön planda tutar ve güvenli girişler için ideal bir çözümdür.</p>
+        <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
 
 ## VPN Uygulamaları
 
@@ -226,9 +257,9 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
     <div class="service-box">
-        <img src="docs/images/vaultwarden.png" alt="icon">
+        <img src="docs/images/proton-pass.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-proton-pass" target="_blank" style="color: inherit; text-decoration: none;">Proton Pass</a>
         </div>
     </div>
 </div>
@@ -246,6 +277,86 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/aegis.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-aegis-authenticator" target="_blank" style="color: inherit; text-decoration: none;">Aegis Authenticator</a>
+        </div>
+    </div>
+</div>
+
+## E-posta Maskeleme
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/addyio-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-addyio" target="_blank" style="color: inherit; text-decoration: none;">Addy.io</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/simplelogin-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-simplelogin" target="_blank" style="color: inherit; text-decoration: none;">SimpleLogin</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/duckduckgo-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-duck-adresses" target="_blank" style="color: inherit; text-decoration: none;">Duck Addresses</a>
+        </div>
+    </div>
+</div>
+
+## Tarayıcı Eklentileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/ublock.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" target="_blank" style="color: inherit; text-decoration: none;">uBlockOrigin</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="https://avatars.githubusercontent.com/u/3402969?s=200&v=4" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-tosdr" target="_blank" style="color: inherit; text-decoration: none;">ToS;DR</a>
+        </div>
+    </div>
+</div>
+
+## İnternet Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/have-i-been-pwned-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-araclari?id=-have-i-been-pwned" target="_blank" style="color: inherit; text-decoration: none;">Have i been pwned?</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/virustotal-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-araclari?id=-virustotal" target="_blank" style="color: inherit; text-decoration: none;">VirusTotal</a>
+        </div>
+    </div>
+</div>
+
+## Mesajlaşma Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/signal.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-signal" target="_blank" style="color: inherit; text-decoration: none;">Signal</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/session.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-session" target="_blank" style="color: inherit; text-decoration: none;">Session</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/threema.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-threema" target="_blank" style="color: inherit; text-decoration: none;">Threema</a>
         </div>
     </div>
 </div>
@@ -289,7 +400,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
     <div class="service-box">
-        <img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="icon">
+        <img src="docs/images/bluesky.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/sosyal-aglar?id=-bluesky-social" target="_blank" style="color: inherit; text-decoration: none;">BlueSky Social</a>
         </div>
@@ -405,6 +516,34 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="http://guvendekal.org/#/qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
+        </div>
+    </div>
+</div>
+
+## Dosya Aktarım Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/localsend.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-aktarma?id=-localsend" target="_blank" style="color: inherit; text-decoration: none;">LocalSend</a>
+        </div>
+    </div>
+</div>
+
+## Dosya Dönüştürme Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/fileconverter-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-file-converter" target="_blank" style="color: inherit; text-decoration: none;">File Converter</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/handbrake-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-handbrake" target="_blank" style="color: inherit; text-decoration: none;">HandBrake</a>
         </div>
     </div>
 </div>
