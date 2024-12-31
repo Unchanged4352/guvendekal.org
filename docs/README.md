@@ -426,6 +426,18 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="https://guvendekal.org/#/not-alma?id=-logseq" target="_blank" style="color: inherit; text-decoration: none;">Logseq</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/notesnook-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-notesnook" target="_blank" style="color: inherit; text-decoration: none;">Notesnook</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/joplin-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-joplin" target="_blank" style="color: inherit; text-decoration: none;">Joplin</a>
+        </div>
+    </div>
 </div>
 
 ## E-posta İstemcileri
@@ -646,23 +658,6 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
 </div> -->
-
-## Diğer Ödeme Yöntemleri
-
-<div class="service-container">
-    <div class="service-box">
-        <img src="docs/images/nakit.png" alt="icon">
-        <div class="title">
-            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-nakit-para" target="_blank" style="color: inherit; text-decoration: none;">Nakit Para</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/kart.png" alt="icon">
-        <div class="title">
-            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-hediye-kartları-amp-Ön-Ödemeli-kartlar" target="_blank" style="color: inherit; text-decoration: none;">Hediye Kartları & Ön Ödemeli Kartlar</a>
-        </div>
-    </div>
-</div>
 
 ## Atıf ve Hukuksal Bilgiler
 
